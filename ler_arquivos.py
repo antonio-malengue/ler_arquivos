@@ -1,22 +1,3 @@
-# Leitor de Arquivo CSV
-
-Este é um pequeno script em Python que lê dados de um arquivo CSV e exibe seu conteúdo.
-
-## Funcionalidades
-
-- Lê dados de um arquivo CSV.
-- Exibe os dados lidos do arquivo CSV.
-
-## Como Usar
-
-1. Faça o download ou clone este repositório em sua máquina local.
-2. Certifique-se de ter o Python instalado em sua máquina.
-3. Execute o script Python digitando `python nome_do_arquivo.py` e pressione Enter.
-4. O script lerá os dados do arquivo CSV especificado e os exibirá no console.
-
-## Exemplo de Uso
-
-```python
 import csv
 
 # Caminho para o arquivo CSV
